@@ -20,7 +20,9 @@
   "license": "MIT",
   "dependencies": {
     "bluebird": "^2.9.8",
-    "hexo-util": "^0.1.7"
+    "hexo-util": "^0.1.7",
+    "lodash": "^3.10.1",
+    "request-promise": "^1.0.2"
   },
   "devDependencies": {
     "mocha": "^2.0.1",
